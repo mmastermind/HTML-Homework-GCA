@@ -1,0 +1,14 @@
+GENERAL
+
+Size of images main one
+In the case of images: how to split like in thumbnails?
+
+How to set justified images format for landing page and images
+How to increase the size of the main container so that it "fits" the screen
+Size of visiualizations and centered
+
+
+Nav bar: how to justify right some elements only
+When minimizing: how to avoid the mini button that appears
+
+CSS padding & backgorund color
